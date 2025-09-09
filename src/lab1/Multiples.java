@@ -11,6 +11,6 @@ public class Multiples {
                 counter++;
             }
         }
-        System.out.println();
+        System.out.println(counter);
     }
 }
